@@ -2,7 +2,7 @@
 Repo with all of my exercises and homework from C# courses at SoftUni.
 
 
-## :white_check_mark: Entity-Framework-Core-February-2023 - [Certificated]([https://softuni.bg/certificates/details/165003/aa41189a]) :heavy_check_mark:
+## :white_check_mark: Entity-Framework-Core-February-2023 - [Certificated](https://softuni.bg/certificates/details/165003/aa41189a) :heavy_check_mark:
 01. EXERCISE: FETCHING RESULTSETS WITH ADO.NET
 02. EXERCISE: ORM FUNDAMENTALS
 03. Entity Framework Introduction
