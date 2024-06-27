@@ -1,4 +1,4 @@
-# CSharp-Exercises-Repo
+# CSharp-Exercises-SoftUni-Repo
 Repo with all of my exercises and homework from C# courses at SoftUni.
 
 
